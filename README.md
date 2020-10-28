@@ -1,2 +1,2 @@
 # spring1
-Bootstrap para aprendizaje de proyectos de java Spring
+Bootstrap para aprendizaje de proyectos en java Spring
